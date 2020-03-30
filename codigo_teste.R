@@ -12,4 +12,7 @@ c
 
 r <- sqrt(c)
 
+
+r <- r * r
+
 r
