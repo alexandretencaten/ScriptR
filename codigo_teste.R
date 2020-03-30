@@ -1,6 +1,6 @@
 
 ######################################
-### TESTE SCRIOT PARA GITHUB
+### TESTE SCRIPT PARA GITHUB
 ######################################
 
 x <- 1
@@ -9,3 +9,7 @@ y <- 2
 c <- x + y
 
 c
+
+r <- sqrt(c)
+
+r
